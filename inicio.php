@@ -1,2 +1,10 @@
-algo
-estamos modificando este archivo
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bienvenidos</title>
+
+</head>
+<body>
+
+</body>
+</html>
